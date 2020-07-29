@@ -1,0 +1,113 @@
+{
+  "sectionTitle": "Our <span>experience </span> experts",
+  "sectionSubTitle": "Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
+  "leadershipHeading": "We pride ourselves on having a team <br> of <span>highly-skilled</span> experts",
+  "teamMembers": [
+    {
+      "id": 1,
+      "image": "images/team/Meha3.png",
+      "name": "Maha Yarmani",
+      "designation": "Digital Marketing Manager",
+      "fbUrl": "https://www.facebook.com",
+      "twitterUrl": "https://twitter.com",
+      "instagramUrl": "https://www.instagram.com"
+    },
+    {
+      "id": 2,
+      "image": "images/team/nefzi.png",
+      "name": "Oussema Nefzi",
+      "designation": "Art Director",
+      "fbUrl": "https://www.facebook.com",
+      "twitterUrl": "https://twitter.com",
+      "instagramUrl": "https://www.instagram.com"
+    },
+    {
+      "id": 3,
+      "image": "images/team/Ahmed.png",
+      "name": "Ahmed Ben Mesaoud",
+      "designation": "Media Manager",
+      "fbUrl": "https://www.facebook.com",
+      "twitterUrl": "https://twitter.com",
+      "instagramUrl": "https://www.instagram.com"
+    },
+    {
+      "id": 3,
+      "image": "images/team/traitor replacement.png",
+      "name": "someone",
+      "designation": " Web Developer",
+      "fbUrl": "https://www.facebook.com",
+      "twitterUrl": "https://twitter.com",
+      "instagramUrl": "https://www.instagram.com"
+    }
+  ],
+  "teamMemberWidget": [
+    {
+      "widgetTitle": "DEVELOPER",
+      "teamMemberList": [
+        {
+          "title": "Gene Moreno"
+        },
+        {
+          "title": "Carrie Greer"
+        },
+        {
+          "title": "Brent Newman"
+        },
+        {
+          "title": "Craig Stevenson"
+        }
+      ]
+    },
+    {
+      "widgetTitle": "ENGINEER",
+      "teamMemberList": [
+        {
+          "title": "Albert Webster"
+        },
+        {
+          "title": "Harry Castillo"
+        },
+        {
+          "title": "Walter Reid"
+        },
+        {
+          "title": "Gordon Baldwin"
+        }
+      ]
+    },
+    {
+      "widgetTitle": "STAFF",
+      "teamMemberList": [
+        {
+          "title": "Gene Moreno"
+        },
+        {
+          "title": "Carrie Greer"
+        },
+        {
+          "title": "Brent Newman"
+        },
+        {
+          "title": "Craig Stevenson"
+        }
+      ]
+    },
+    {
+      "widgetTitle": "DESIGN/MARKETING",
+      "teamMemberList": [
+        {
+          "title": "Charlotte Shaw"
+        },
+        {
+          "title": "Kate Wong"
+        },
+        {
+          "title": "Frederick Huff"
+        },
+        {
+          "title": "Ora Johnson"
+        }
+      ]
+    }
+  ]
+}

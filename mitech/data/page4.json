@@ -1,0 +1,106 @@
+{
+  "Trust Readiness": [
+    {
+      "id": 1,
+      "question": "The business I am launching has a story",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "The story of the this business is appealing  ",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "The story of the this business is already written down in less that 1000 words",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "I already got clients",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "I have testimonials",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "My website and social media are professionally designed",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "Blast Readiness": [
+    {
+      "id": 1,
+      "question": "I am clear about the right moment to launch the project and choose it on purpose",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "The marketing messages I will be using is provoking and enticing and I can mention them now  ",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "I am clear about the recipients (Videos, cartoons…) I will use to communicate that message and I can mention them now",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "I am clear about the channels (Website, Facebook, Instagram…) I will use to communicate that message and I can mention them now",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "I am clear about what kind of reception and channel I am going to use with each of marketing message and I can mention that now",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "I am clear about the number of engagement I will get from the launching campaign",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "I am clear about the frequency I will use to communicate that message and I can mention them now",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "I have the special offers I will be using and I can mention them now",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    }
+  ]
+}

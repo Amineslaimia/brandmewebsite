@@ -1,0 +1,123 @@
+{
+  "Engagement Readiness": [
+    {
+      "id": 1,
+      "question": "I have 100% free downloadable material on my website and social media",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "I offer 100% free services ",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Each message of launching marketing campaign has a call to action",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "The call to action leads clients to ask for more information, download free material or register in one of the free services",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "I know how many email I will collect",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "I know how many people I will exchange with",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "I know how many people I will call",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    }
+  ]
+}

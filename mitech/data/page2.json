@@ -1,0 +1,72 @@
+{
+  "Clients Avatar Readiness": [
+    {
+      "id": 1,
+      "question": "I know the demographic characteristics (age, country, revenue, occupation) of my clients and I can name them now",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "I know the psychological characteristics (personality traits) of my clients and I can name them now",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "I know the exact problem of my client and I can state it now",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "I have an estimation of the number of the population I am targeting?",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    }
+  ]
+}

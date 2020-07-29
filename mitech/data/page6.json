@@ -1,0 +1,89 @@
+{
+  "Funnel Readiness": [
+    {
+      "id": 1,
+      "question": "I offer free trial period services",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "I offer refundable services",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "I offer small prices services",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "I offer up-sells",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "I have a clear number on how many will register in these services",
+      "choices": [
+        { "value": 0, "choice": "0" },
+        { "value": 1, "choice": "1" },
+        { "value": 2, "choice": "2" },
+        { "value": 3, "choice": "3" },
+        { "value": 4, "choice": "4" },
+        { "value": 5, "choice": "5" },
+        { "value": 6, "choice": "6" },
+        { "value": 7, "choice": "7" },
+        { "value": 8, "choice": "8" },
+        { "value": 9, "choice": "9" },
+        { "value": 10, "choice": "10" }
+      ]
+    }
+  ]
+}
